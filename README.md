@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kunal Hinduja
+### 👋 Hi, I’m Kunal Hinduja
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on ...

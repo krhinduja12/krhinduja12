@@ -5,26 +5,26 @@ I'm an IT consultant based in Melbourne with a passion to develop technology dri
 ## Tech stack that I love to work with
 
 # TALL Stack
-
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" title="tailwindcss"></code>
 
 # VILT Stack
 
 
-## MERN Stack
+# MERN Stack
 
 
-## BACK-END
-
-
-## FRONT-END
-
-## DATABASE 
-
-## DEVOPS
+# BACK-END
 
 
 
-# 👀 I’m interested in Infomration security, Blockchain and Computer Vision.
+# FRONT-END
+
+# DATABASE 
+
+# DEVOPS
+<code><img height="50" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" title="AWS"></code>
+
+👀 I’m interested in Infomration security, Blockchain and Computer Vision.
 
 - 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on ...

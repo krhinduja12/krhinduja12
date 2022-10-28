@@ -6,7 +6,7 @@ I'm an IT consultant based in Melbourne with a passion to develop technology dri
 
 # TALL Stack
 
-<code> <img height="50" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" title-"Tailwind CSS"></code>
+
 # VILT Stack
 
 
